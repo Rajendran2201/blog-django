@@ -26,8 +26,8 @@ This is a blog website built using Django, a high-level Python web framework. Th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-django-blog-repo.git
-   cd your-django-blog-repo
+   git clone https://github.com/Rajendran2201/blog-django.git
+   cd blog-django
    ```
 
 2. Create a virtual environment:
